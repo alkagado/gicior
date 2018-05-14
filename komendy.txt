@@ -1,1 +1,2 @@
- -b, --browsers BROWSERS  add prefixes for selected browsers
+node_modules/.bin/autoprefixer-cli -o css/style.prefixed.css css/style.css
+node_modules/.bin/nu-html-checker *.html
